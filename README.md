@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!-- <img src='https://imgur.com/a/CMIockV.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' /> -->
-
-<img src='https://imgur.com/gallery/CMIockV.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+![Video Walkthrough](assets/prework-gif.gif)
 
 GIF created with LICEcap
 
