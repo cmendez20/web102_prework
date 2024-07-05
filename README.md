@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](assets/prework-gif.gif)
+![Video Walkthrough](assets/prework-submission.gif)
 
 GIF created with LICEcap
 
